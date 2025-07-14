@@ -7,4 +7,4 @@ Este proyecto muestra los indicadores de contactabilidad y adherencia de campañ
 - Contactos por región
 - Eficiencia por campus
 
-![vista previa](imagenes/dashboard1.png)
+![vista previa](images/Dashboard1.png)
